@@ -57,13 +57,16 @@ Check and use player-made warps by using `/warps`
 
 ### Composters
 You can craft auto-composters. Those will boost the growth speed of crops nearby. The auto-composters have a horizontal radius of 6 and a vertical radius of 3. They can also automatically plant crops by crouch + rightclicking while holding seeds.
-- AutoComposters: ![AutoComposters](https://cdn.discordapp.com/attachments/846654800224845855/930644474483318804/unknown.png)
+- AutoComposters: 
+![AutoComposters](https://cdn.discordapp.com/attachments/846654800224845855/930644474483318804/unknown.png)
 
   
 ### AutoShulkers
 You can craft special shulker boxes. One version will automatically destroy items of your choice when picked up and another will automatically store items store them inside the shulker box when you pick them up. Think of it this way: You're on a trip to the nether mining for ancient debris, gold and nether quartz. You have a Shulker Trashcan that destroys all the netherrack you pick up, an Auto Shulker that stores all the gold, an Auto Shulker that stores all the nether quartz and an Auto Shulker that stores all the debris.
- - GarbageBox Shulkers: ![GarbageBox Shulkers](https://cdn.discordapp.com/attachments/846654800224845855/930644474818887770/unknown.png)
- - AutoShulkers: ![AutoShulkers](https://cdn.discordapp.com/attachments/846654800224845855/930644475120848976/unknown.png)
+ - GarbageBox Shulkers: 
+ ![GarbageBox Shulkers](https://cdn.discordapp.com/attachments/846654800224845855/930644474818887770/unknown.png)
+ - AutoShulkers: 
+ ![AutoShulkers](https://cdn.discordapp.com/attachments/846654800224845855/930644475120848976/unknown.png)
 
 ### Bigger chests
 Larger chests available to craft:
@@ -99,7 +102,7 @@ Give health to your partner by doing `/marry heal`
 Gift your partner the current item(s) you hold by using `/marry gift`
 
 ### Elevators
- - ![Elevators](https://cdn.discordapp.com/attachments/846654800224845855/930644473849991178/unknown.png)
+![Elevators](https://cdn.discordapp.com/attachments/846654800224845855/930644473849991178/unknown.png)
   
 ### Jobs - XP through gameplay
 You can join Jobs to gain XP while playing instead of using farms. Command is `/jobs browse` and everything will be shown in a nice GUI. You can get XP by mining blocks (miner and digger), breeding animals, farming crops and more! More jobs might come when i'm happy with the current lineup. Jobs are still in the process of being tweaked/balanced and might be buffed/nerfed later.
