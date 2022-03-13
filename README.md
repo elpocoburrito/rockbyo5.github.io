@@ -63,10 +63,10 @@ You can craft auto-composters. Those will boost the growth speed of crops nearby
   
 ### AutoShulkers
 You can craft special shulker boxes. One version will automatically destroy items of your choice when picked up and another will automatically store items store them inside the shulker box when you pick them up. Think of it this way: You're on a trip to the nether mining for ancient debris, gold and nether quartz. You have a Shulker Trashcan that destroys all the netherrack you pick up, an Auto Shulker that stores all the gold, an Auto Shulker that stores all the nether quartz and an Auto Shulker that stores all the debris.
- **GarbageBox Shulkers: **
- ![GarbageBox Shulkers](https://cdn.discordapp.com/attachments/846654800224845855/930644474818887770/unknown.png)
- **AutoShulkers: **
- ![AutoShulkers](https://cdn.discordapp.com/attachments/846654800224845855/930644475120848976/unknown.png)
+**GarbageBox Shulkers: **
+![GarbageBox Shulkers](https://cdn.discordapp.com/attachments/846654800224845855/930644474818887770/unknown.png)
+**AutoShulkers: **
+![AutoShulkers](https://cdn.discordapp.com/attachments/846654800224845855/930644475120848976/unknown.png)
 
 ### Bigger chests
 Larger chests available to craft:
