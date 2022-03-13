@@ -52,7 +52,7 @@ Teleport to your previous location before your most recent teleport by using `/b
 Check and use player-made warps by using `/warps`
  - Manually warp to player-made warps by using `/warp <warpName>`
 
-## Ranks
+### Ranks
  - [todo]
 
 ### Composters
