@@ -59,15 +59,18 @@ Check and use player-made warps by using `/warps`
 You can craft auto-composters. Those will boost the growth speed of crops nearby. The auto-composters have a horizontal radius of 6 and a vertical radius of 3. They can also automatically plant crops by crouch + rightclicking while holding seeds.
 
 **AutoComposters: **
+
 ![AutoComposters](https://cdn.discordapp.com/attachments/846654800224845855/930644474483318804/unknown.png)
   
 ### AutoShulkers
 You can craft special shulker boxes. One version will automatically destroy items of your choice when picked up and another will automatically store items store them inside the shulker box when you pick them up. Think of it this way: You're on a trip to the nether mining for ancient debris, gold and nether quartz. You have a Shulker Trashcan that destroys all the netherrack you pick up, an Auto Shulker that stores all the gold, an Auto Shulker that stores all the nether quartz and an Auto Shulker that stores all the debris.
 
 **GarbageBox Shulkers: **
+
 ![GarbageBox Shulkers](https://cdn.discordapp.com/attachments/846654800224845855/930644474818887770/unknown.png)
 
 **AutoShulkers: **
+
 ![AutoShulkers](https://cdn.discordapp.com/attachments/846654800224845855/930644475120848976/unknown.png)
 
 ### Bigger chests
@@ -85,7 +88,7 @@ Larger chests available to craft:
 ### Enchantment Cap
  - Enchants now wont say "too expansive" anymore!
  - They also wont increase in price forever and will cap at some point if you keep repairing them.
- - 
+
 ### Proximity Chat (Optional)
  - [todo]
   
