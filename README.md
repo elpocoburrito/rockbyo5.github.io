@@ -20,34 +20,34 @@ If you have more than one land, you can choose which you are editing: `/lands ed
   
 ## Gameplay changes
 ### Homes
- - <todo>
+ - [todo]
 
 ### Teleportation
- - <todo>
+ - [todo]
 
 ### Composters
- - <todo>
+ - [todo]
   
 ### AutoShulkers
- - <todo>
+ - [todo]
   
 ### Bigger chests
- - <todo>
+ - [todo]
   
 ### Marriage
- - <todo>
+ - [todo]
   
 ### Elevators
- - <todo>
+ - [todo]
 
 ### Dynmap
- - <todo>
+ - [todo]
   
 ### Jobs - XP through gameplay
- - <todo>
+ - [todo]
 
 ### Emotes (Hugs, pats and bonks)
- - <todo>
+ - [todo]
   
 ### Misc
  - Loot regeneration
@@ -56,6 +56,6 @@ If you have more than one land, you can choose which you are editing: `/lands ed
  - Enchant cap removal
  - Tree Chopping (toggle)
  - Quick inventory dumping
- - <Graves details>
+ - [Graves details]
  - Sit
- - <more>
+ - [more]
