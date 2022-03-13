@@ -83,6 +83,12 @@ On death, place a player head of the slain player that stores their items.
  - Shift+Right Click to instantly put your items back into your inventory.
  - After taking all of the items from your grave, a zombie with your player head is spawned.
 
+### Hardmode and Easymode
+Able to toggle between challenging, levelled mobs `/hardmode`, or fully vanilla mobs `/easymode`.
+ - Hardmode mobs give better loot and EXP on the expense of tougher and harder mobs.
+ - Completely a per player basis, mobs spawned around a player on Easymode will be vanilla, and vice-versa for Hardmode.
+ - When two players on Hardmode and Easymode are next to eachother, mobs spawned around them will be on Easymode.
+
 ### Misc
  - Loot regeneration (to do)
  - Leashes are unbreakable
