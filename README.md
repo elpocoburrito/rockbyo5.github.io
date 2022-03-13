@@ -25,7 +25,7 @@ If you have more than one land, you can choose which you are editing: `/lands ed
 [More commands to document]
 
 ### Changing land settings
-Land permissions and settings: You have a large amount of control over the permissions of other players inside your claims. Those can be accessed using the following steps.
+**Land permissions and settings:** You have a large amount of control over the permissions of other players inside your claims. Those can be accessed using the following steps.
 1. Run the command [/lands menu] and then select the desired land to alter (if you have multiple lands)
 2A. Click "Natural flags" to change game mechanics inside your land. Includes TNT and creeper breaking blocks or not and other things.
 2B. Click "Roles" to change what trusted people can do inside your land (members) and what untrusted people can do inside your land. (Visitors).
@@ -57,14 +57,16 @@ Check and use player-made warps by using `/warps`
 
 ### Composters
 You can craft auto-composters. Those will boost the growth speed of crops nearby. The auto-composters have a horizontal radius of 6 and a vertical radius of 3. They can also automatically plant crops by crouch + rightclicking while holding seeds.
+
 **AutoComposters: **
 ![AutoComposters](https://cdn.discordapp.com/attachments/846654800224845855/930644474483318804/unknown.png)
-
   
 ### AutoShulkers
 You can craft special shulker boxes. One version will automatically destroy items of your choice when picked up and another will automatically store items store them inside the shulker box when you pick them up. Think of it this way: You're on a trip to the nether mining for ancient debris, gold and nether quartz. You have a Shulker Trashcan that destroys all the netherrack you pick up, an Auto Shulker that stores all the gold, an Auto Shulker that stores all the nether quartz and an Auto Shulker that stores all the debris.
+
 **GarbageBox Shulkers: **
 ![GarbageBox Shulkers](https://cdn.discordapp.com/attachments/846654800224845855/930644474818887770/unknown.png)
+
 **AutoShulkers: **
 ![AutoShulkers](https://cdn.discordapp.com/attachments/846654800224845855/930644475120848976/unknown.png)
 
@@ -83,6 +85,7 @@ Larger chests available to craft:
 ### Enchantment Cap
  - Enchants now wont say "too expansive" anymore!
  - They also wont increase in price forever and will cap at some point if you keep repairing them.
+ - 
 ### Proximity Chat (Optional)
  - [todo]
   
@@ -140,8 +143,11 @@ Able to toggle between challenging, levelled mobs `/hardmode`, or fully vanilla 
 
 ### Emojis Resource pack
 By default, the server will prompt you to load the resource pack to be able to see them. Without the resource packs, they will be random chinese characters.
+
 **Option 1.** Using the default resource pack loading option, you will see a resourcepack loading everytime you leave/join. The upside is that the resourcepack will always be kept up to date automatically.
+
 **Option 2.** If you prefer, you can disable the server resource pack loading (click on the server, in the server list, click edit and then resource packs: Disable) and instead download the resource pack zip i will keep available in this channel (pins) and add it to your minecraft. the resource pack will not cause any issue in other minecraft servers or single player worlds.
+
 **Option 3.** Do as in option 2, disabling the resource pack option but do not install the resource pack. You will see this kind of stuff instead of emojis: 漢
 
 Resource pack: http://viennac9.apexmc.co:8234/resource_pack_emojis.zip 
