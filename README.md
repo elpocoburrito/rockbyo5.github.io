@@ -8,7 +8,7 @@ Server is Minecraft Java Edition `1.18.2`.
  - We have an official Dynmap webmap at https://viennac9.apexmc.co:8234/
    - You can use `/dynmap register` in game to link your browser with your Minecraft account, this allows you to talk in chat while using your browser.
  - We have an official server resource pack that allows you to post and see emojis in the chat. By default, the server will prompt you to load the resource pack to be able to see them. Without the resource packs, they will be random chinese characters.
-<details><summary>Option 1</summary>|
+<details><summary>Option 1</summary>
 <p>
 Using the default resource pack loading option, you will see a resourcepack loading everytime you leave/join. The upside is that the resourcepack will always be kept up to date automatically.
 </p>
@@ -20,7 +20,7 @@ If you prefer, you can disable the server resource pack loading (click on the se
 </p>
 </details>
 
-<details><summary>Options 3</summary>
+<details><summary>Option 3</summary>
 <p>
 Do as in option 2, disabling the resource pack option but do not install the resource pack. You will see this kind of stuff instead of emojis: 漢
 </p>
@@ -44,23 +44,31 @@ To change lands settings, trust people, and more, use `/lands menu`
 [More to document, add images as well]
 
 **Land permissions and settings:** You have a large amount of control over the permissions of other players inside your claims. Those can be accessed using the following steps.
+ 
 1. Run the command [/lands menu] and then select the desired land to alter (if you have multiple lands)
-2A. Click "Natural flags" to change game mechanics inside your land. Includes TNT and creeper breaking blocks or not and other things.
-2B. Click "Roles" to change what trusted people can do inside your land (members) and what untrusted people can do inside your land. (Visitors).
-3B. You will find here 2 important sections. "Action flags" and "Management flags", which contain detailed instructions for you to read and chose.
+
+2. Click "Natural flags" to change game mechanics inside your land. Includes TNT and creeper breaking blocks or not and other things.
+
+3. Click "Roles" to change what trusted people can do inside your land (members) and what untrusted people can do inside your land. (Visitors).
+
+4. You will find here 2 important sections. "Action flags" and "Management flags", which contain detailed instructions for you to read and chose.
+
 [More to document]
 
 ### Homes
 Create a home with `/sethome <homeName>`
+
 ![SetHome](https://i.imgur.com/bNQkMYB.png)
  - You can increase the amount of Homes you can create/own through playtime.
 Teleport to your home with `/home <homeName>`
 ![HomeTP](https://i.imgur.com/peTX16Y.png)
  - Teleporting to a home requires you to wait 3 seconds and to be standing still.
-Manage multiple homes by using `/homes`
-![Homes](https://i.imgur.com/nLes7i2.png)
-Delete a home with `/removehome <homeName>` or `/delhome <homeName>`
-![DelHome](https://i.imgur.com/LONwDPC.png)
+ - Manage multiple homes by using `/homes`
+
+  ![Homes](https://i.imgur.com/nLes7i2.png)
+
+ - Delete a home with `/removehome <homeName>` or `/delhome <homeName>`
+ ![DelHome](https://i.imgur.com/LONwDPC.png)
 
 ### Teleportation
 Send a request to teleport to another player using `/tpa <playerName>`
@@ -151,6 +159,7 @@ Gift your partner the current item(s) you hold by using `/marry gift`
 
 ### Elevators
 Elevators are a system that allows you to move up and down floors simply with the crafting recipe seen below. By placing an elevator down and placing another one above or below it, you can jump to go up and shift to go down. Keep in mind that the elevators HAVE to be on the same coordinates, except for the Y level.
+
 ![Elevators](https://cdn.discordapp.com/attachments/846654800224845855/930644473849991178/unknown.png)
   
 ### Jobs - XP through gameplay
@@ -162,17 +171,20 @@ You can join Jobs to gain XP while playing instead of using farms. Command is `/
   
 ### Graves
 On death, place a player head on the location of the death (if inaccessible, pick the safest location possible) which stores the slain players' items.
+ 
 ![graveHead](https://i.imgur.com/M2Kvi5i.png)
  - Graves last for 20 minutes and cannot be interacted with by other players
  - Once you respawn, you are given a Compass that points to your grave, right clicking this compass shows you how far you are from your grave.
+ 
  ![GraveCompass](https://i.imgur.com/gHkiaoG.png)
  - Right click the player head to interact with your grave and retrieve your items.
  - Shift+Right Click to instantly put your items back into your inventory.
  - After taking all of the items from your grave, a zombie with your player head is spawned.
 
 ### Hardmode and Easymode
-Able to toggle between challenging, levelled mobs `/hardmode`, or fully vanilla mobs `/easymode`.
+Able to toggle between challenging, levelled mobs `/hardmode`, or fully vanilla mobs `/easymode`.<br>
 ![Hardmode](https://i.imgur.com/Nf6RkqW.png)
+
 ![Easymode](https://i.imgur.com/tcAhmm7.png)
  - Hardmode mobs give better loot and EXP on the expense of tougher and harder mobs.
  - Completely a per player basis, mobs spawned around a player on Easymode will be vanilla, and vice-versa for Hardmode.
@@ -189,15 +201,3 @@ Able to toggle between challenging, levelled mobs `/hardmode`, or fully vanilla 
  - Mail System (to do)
  - Interactive Chat (to do)
  - [more]
-
-
-### Emojis Resource pack
-By default, the server will prompt you to load the resource pack to be able to see them. Without the resource packs, they will be random chinese characters.
-
-**Option 1.** Using the default resource pack loading option, you will see a resourcepack loading everytime you leave/join. The upside is that the resourcepack will always be kept up to date automatically.
-
-**Option 2.** If you prefer, you can disable the server resource pack loading (click on the server, in the server list, click edit and then resource packs: Disable) and instead download the resource pack zip i will keep available in this channel (pins) and add it to your minecraft. the resource pack will not cause any issue in other minecraft servers or single player worlds.
-
-**Option 3.** Do as in option 2, disabling the resource pack option but do not install the resource pack. You will see this kind of stuff instead of emojis: 漢
-
-Resource pack: http://viennac9.apexmc.co:8234/resource_pack_emojis.zip 
