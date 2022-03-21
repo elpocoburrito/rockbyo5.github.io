@@ -61,7 +61,9 @@ Create a home with `/sethome <homeName>`
 ![SetHome](https://i.imgur.com/bNQkMYB.png)
  - You can increase the amount of Homes you can create/own through playtime.
 Teleport to your home with `/home <homeName>`
+
 ![HomeTP](https://i.imgur.com/peTX16Y.png)
+
  - Teleporting to a home requires you to wait 3 seconds and to be standing still.
  - Manage multiple homes by using `/homes`
 
